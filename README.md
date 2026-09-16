@@ -1,49 +1,28 @@
-# Hi, I'm Nico 👋
+<h1 align="left">Hi, I'm Nico 👋</h1>
 
-Analytics Engineer building modern data products, analytics platforms, and AI-powered analytics.
-
-[Live project](https://ecommerce-profitability-analytics.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nicolas-rohland/) · [GitHub](https://github.com/nrohland)
-
-## Tech Stack
-
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="34" height="34" />&nbsp;&nbsp;
-  <strong>SQL</strong>&nbsp;&nbsp;
-  <strong>dbt</strong>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" alt="BigQuery" title="BigQuery" width="34" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" title="Google Cloud" width="34" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" title="Apache Airflow" width="34" height="34" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/meltano/meltano/main/docs/docs/reference/images/icon.svg" alt="Meltano" title="Meltano" width="34" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker" title="Looker" width="34" height="34" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" title="Snowflake" width="34" height="34" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nrohland&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
-## Start Here
+## Tech stack
 
-### [Ecommerce Profitability Analytics](https://github.com/nrohland/ecommerce-profitability-analytics)
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logoColor=white">
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
+  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img alt="Meltano" src="https://img.shields.io/badge/Meltano-3423A6?style=for-the-badge&logo=meltano&logoColor=white">
+  <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white">
+  <img alt="Lightdash" src="https://img.shields.io/badge/Lightdash-16A34A?style=for-the-badge&logo=lightdash&logoColor=white">
+  <img alt="Metabase" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white">
+  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
+</p>
 
-End-to-end analytics product for exploring ecommerce profitability, customer retention, and marketing efficiency.
-
-**DuckDB · Python · SQL · Next.js** — [Live demo](https://ecommerce-profitability-analytics.vercel.app) · [Source](https://github.com/nrohland/ecommerce-profitability-analytics)
-
-### [dbt Ad Analytics](https://github.com/nrohland/01_dbt_ad_analytics)
-
-Advertising analytics pipeline with tested dbt/DuckDB marts and a published Tableau dashboard.
-
-**dbt · DuckDB · Python · SQL · Tableau** — [Dashboard](https://public.tableau.com/app/profile/nicolas.rohland/viz/ADANALYTICSPERFORMANCE/ADANALYTICSPERFORMANCE) · [Source](https://github.com/nrohland/01_dbt_ad_analytics)
-
-### [Barrilito / Vaca Muerta Pulse](https://github.com/nrohland/vaca-muerta-pulse) — In progress
-
-Open-data pipeline that transforms Argentine energy data into tested, analytics-ready models for a public data product.
-
-**Meltano · BigQuery · dbt · Python** — [Source](https://github.com/nrohland/vaca-muerta-pulse)
-
-## Currently Exploring
-
-- AI-native analytics
-- Semantic layers
-- Agentic data workflows
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/nicolas-rohland/) · [GitHub](https://github.com/nrohland)
+- 💻 Analytics Engineer focused on modern data products, analytics platforms, and automation
+- 🛠️ Working with **dbt, BigQuery, Snowflake, Airflow, Python, SQL, Lightdash, and Metabase**
+- 🧩 Experience across data modeling, orchestration, pipelines, reporting, and analytics product development
+- 🛢️ Developing [Barrilito / Vaca Muerta Pulse](https://github.com/nrohland/vaca-muerta-pulse), an open-data product for Argentina's energy sector
+- 🤖 Exploring **AI-native analytics, semantic layers, and agentic data workflows**
+- 📫 Reach me at **nicolas.rohland@gmail.com**
