@@ -1,4 +1,4 @@
-# Hi, I'm Nicolas 👋
+# Hi, I'm Nico 👋
 
 Analytics Engineer building modern data products, analytics platforms, and AI-powered analytics.
 
