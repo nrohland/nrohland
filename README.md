@@ -7,17 +7,7 @@
 ## Tech stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" height="24" alt="Python"> <strong>Python</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/mdi:database-outline.svg?color=%236B7280" width="24" height="24" alt="SQL"> <strong>SQL</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:dbt-icon.svg" width="24" height="24" alt="dbt"> <strong>dbt</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" width="24" height="24" alt="BigQuery"> <strong>BigQuery</strong><br><br>
-  <img src="https://api.iconify.design/logos:airflow-icon.svg" width="24" height="24" alt="Airflow"> <strong>Airflow</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/meltano.png?size=48" width="24" height="24" alt="Meltano"> <strong>Meltano</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:looker-icon.svg" width="24" height="24" alt="Looker"> <strong>Looker</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/lightdash.png?size=48" width="24" height="24" alt="Lightdash"> <strong>Lightdash</strong><br><br>
-  <img src="https://github.com/metabase.png?size=48" width="24" height="24" alt="Metabase"> <strong>Metabase</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:snowflake-icon.svg" width="24" height="24" alt="Snowflake"> <strong>Snowflake</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos:tableau-icon.svg" width="24" height="24" alt="Tableau"> <strong>Tableau</strong>
+  <img src="https://raw.githubusercontent.com/nrohland/nrohland/62f304b0e4408b1cfb7ae12964ccca4da64dd7eb/tech-stack.svg" alt="Tech stack: Meltano, Python, BigQuery, Snowflake, SQL, dbt, Airflow, Metabase, Lightdash, Tableau and Looker">
 </p>
 
 - 💻 Analytics Engineer focused on modern data products, analytics platforms, and automation
