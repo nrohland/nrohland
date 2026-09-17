@@ -7,17 +7,17 @@
 ## Tech stack
 
 <p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
-  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white">
-  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-  <img alt="Meltano" src="https://img.shields.io/badge/Meltano-7C3AED?style=for-the-badge&logo=materialformkdocs&logoColor=white">
-  <img alt="Looker" src="https://img.shields.io/badge/Looker-5F6368?style=for-the-badge&logo=looker&logoColor=white">
-  <img alt="Lightdash" src="https://img.shields.io/badge/Lightdash-16A34A?style=for-the-badge&logo=lightdash&logoColor=white">
-  <img alt="Metabase" src="https://img.shields.io/badge/Metabase-475569?style=for-the-badge&logo=metabase&logoColor=white">
-  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" height="24" alt="Python"> <strong>Python</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/mdi:database-outline.svg?color=%236B7280" width="24" height="24" alt="SQL"> <strong>SQL</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:dbt-icon.svg" width="24" height="24" alt="dbt"> <strong>dbt</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" width="24" height="24" alt="BigQuery"> <strong>BigQuery</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:airflow-icon.svg" width="24" height="24" alt="Airflow"> <strong>Airflow</strong><br><br>
+  <img src="https://github.com/meltano.png?size=48" width="24" height="24" alt="Meltano"> <strong>Meltano</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:looker-icon.svg" width="24" height="24" alt="Looker"> <strong>Looker</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/lightdash.png?size=48" width="24" height="24" alt="Lightdash"> <strong>Lightdash</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/metabase.png?size=48" width="24" height="24" alt="Metabase"> <strong>Metabase</strong><br><br>
+  <img src="https://api.iconify.design/logos:snowflake-icon.svg" width="24" height="24" alt="Snowflake"> <strong>Snowflake</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:tableau-icon.svg" width="24" height="24" alt="Tableau"> <strong>Tableau</strong>
 </p>
 
 - 💻 Analytics Engineer focused on modern data products, analytics platforms, and automation
