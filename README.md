@@ -6,7 +6,7 @@
 
 ## Tech stack
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" height="24" alt="Python"> <strong>Python</strong>&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/mdi:database-outline.svg?color=%236B7280" width="24" height="24" alt="SQL"> <strong>SQL</strong>&nbsp;&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos:dbt-icon.svg" width="24" height="24" alt="dbt"> <strong>dbt</strong>&nbsp;&nbsp;&nbsp;
