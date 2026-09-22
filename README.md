@@ -7,7 +7,7 @@
 ## Tech stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nrohland/nrohland/62f304b0e4408b1cfb7ae12964ccca4da64dd7eb/tech-stack.svg" alt="Tech stack: Meltano, Python, BigQuery, Snowflake, SQL, dbt, Airflow, Metabase, Lightdash, Tableau and Looker">
+  <img src="tech-stack.svg" alt="Tech stack: Meltano, Python, BigQuery, Snowflake, SQL, dbt, Airflow, Metabase, Lightdash, Tableau and Looker">
 </p>
 
 - 💻 Analytics Engineer focused on modern data products, analytics platforms, and automation
